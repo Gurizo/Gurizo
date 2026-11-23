@@ -16,3 +16,5 @@ I'm an ML engineer intern at [Gobi](https://joingobi.com) in Seattle, working on
 
 ## Elsewhere
 [lucascho.fyi](https://lucascho.fyi) · [LinkedIn](https://www.linkedin.com/in/lucasthcho/) · [YouTube](https://www.youtube.com/@TaehwanCho-c7l) · lucascho2000@gmail.com
+
+Work account at Gobi: [@lucascho00](https://github.com/lucascho00)
